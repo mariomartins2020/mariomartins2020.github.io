@@ -1,0 +1,45 @@
+@media screen and (max-width: 799px) {
+
+.main-container {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 40%;
+}
+
+.slider {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 18%;
+  background-color: #fff;
+  padding-top: 2%;
+ 
+}
+
+h1 {
+    font-family: roboto;
+    font-size: 55px;
+}
+
+.subtitle {
+display: none;
+
+}
+
+.card-container {
+
+  display: block;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  justify-content: center;
+  padding-top: 2%;
+
+}
+
+.slider-title{
+
+  display: none;
+}
+
+}
